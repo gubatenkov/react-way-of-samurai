@@ -1,0 +1,16 @@
+.sidebar {
+    min-width: 25rem;
+
+    background: lightblue;
+}
+
+.sidebar__menu {
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+}
+
+.sidebar__menu_link {
+    text-decoration: none;
+}
